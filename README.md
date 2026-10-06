@@ -6,12 +6,6 @@ Below are step-by-step instructions to prepare the hardware, install MAVProxy, c
 
 ---
 
-## Prerequisites
-- Raspberry Pi 5 with Raspberry Pi OS installed and network access
-- Pixhawk 6C flight controller
-- USB-C or USB cable to connect the Pi to the Pixhawk
-- A laptop or ground control station (Mission Planner, QGroundControl) if you want to forward telemetry
-
 ## 1. Connect hardware via USB (Physical setup)
 1. Connect a USB-C or USB cable from one of the Raspberry Pi 5's USB ports to the USB/USER or TELEM1/USB port on the Pixhawk 6C.
 2. On the Raspberry Pi, verify the Pixhawk serial device appears:
