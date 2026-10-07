@@ -56,9 +56,4 @@ Verification: MAVProxy should connect, download parameters from the Pixhawk, and
 
 ---
 
-If you'd like, I can also:
-- Add a troubleshooting section for common issues (no /dev/ttyACM device, permission errors, systemd service to run MAVProxy at boot)
-- Create a systemd service file to run MAVProxy on boot and forward telemetry automatically
-- Add commands to set up a Python virtual environment and install MAVProxy there
 
-Tell me which of those you'd like added and I'll update the README accordingly.
